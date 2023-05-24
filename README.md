@@ -10,4 +10,4 @@ Here are some great resources for developers:
 - [Code Beautify](https://codebeautify.org/)
 - [Showwcase](https://www.showwcase.com/)
 - [Roadmap.sh](https://roadmap.sh/)
-- [PublicAPIS.sh](https://publicapis.dev/
+- [PublicAPIS](https://publicapis.dev/
