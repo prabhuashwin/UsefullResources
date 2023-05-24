@@ -10,4 +10,11 @@ Here are some great resources for developers:
 - [Code Beautify](https://codebeautify.org/)
 - [Showwcase](https://www.showwcase.com/)
 - [Roadmap.sh](https://roadmap.sh/)
-- [PublicAPIS](https://publicapis.dev/)
+- [PublicAPIS](https://publicapis.dev/
+- [DailyDev](https://daily.dev/)
+- [ColorHunt](https://colorhunt.co/)
+- [Icones](https://icones.js.org/)
+- [GitExplorer](https://gitexplorer.com/)
+- [.NetAPI](https://learn.microsoft.com/en-us/dotnet/api/?view=net-7.0)
+- [UISET](https://uiset.com/)
+- [Webkit](https://www.web-kit.tech/)
