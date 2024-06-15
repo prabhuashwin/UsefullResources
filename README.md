@@ -18,3 +18,4 @@ Here are some great resources for developers:
 - [.NetAPI](https://learn.microsoft.com/en-us/dotnet/api/?view=net-7.0)
 - [UISET](https://uiset.com/)
 - [Webkit](https://www.web-kit.tech/)
+- [Webkit](https://symbl.cc/en/)
