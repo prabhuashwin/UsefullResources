@@ -1,7 +1,7 @@
 # Useful Development Resources
 
 Here are some great resources for developers:
-
+- [MDNDeveloperGuide](https://developer.mozilla.org/en-US/docs/Web)
 - [DevDocs](https://devdocs.io/)
 - [OverAPI](https://overapi.com/)
 - [CSS-Tricks](https://css-tricks.com/)
@@ -19,3 +19,6 @@ Here are some great resources for developers:
 - [UISET](https://uiset.com/)
 - [Webkit](https://www.web-kit.tech/)
 - [SYMBL](https://symbl.cc/en/)
+- [FluidTypograpy](https://royalfig.github.io/fluid-typography-calculator/)
+- [CSSTricksGuide](https://css-tricks.com/guides/)
+- [AcceddibilityDeveloperGuide](https://www.accessibility-developer-guide.com/)
